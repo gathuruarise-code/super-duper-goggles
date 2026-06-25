@@ -1,0 +1,33 @@
+#contact{
+    text-align:center;
+    padding:60px 20px;
+}
+
+.contact-info{
+    margin:20px 0;
+}
+
+.contact-info p{
+    margin:10px 0;
+}
+
+.contact-info a{
+    color:#00bfff;
+    text-decoration:none;
+}
+
+.contact-btn{
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 25px;
+    background:#00bfff;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+    font-weight:bold;
+    transition:0.3s;
+}
+
+.contact-btn:hover{
+    transform:scale(1.05);
+}
